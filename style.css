@@ -200,7 +200,7 @@ p {
 
 /* Hero Section */
 #hero {
-	background-image: url(./img/back3.jpg);
+	background-image: url(./back3.jpg);
 	background-size: cover;
 	background-position: top center;
 	position: relative;
@@ -291,7 +291,7 @@ p {
 	flex-direction: column;
 	padding: 30px;
 	border-radius: 10px;
-	background-image: url(./img/back.jpeg);
+	background-image: url(./back.jpeg);
 	background-size: cover;
 	margin: 10px 5%;
 	position: relative;
@@ -360,7 +360,7 @@ p {
 	align-items: flex-start;
 	justify-content: center;
 	flex-direction: column;
-	background-image:url(./img/back2.jpeg);
+	background-image:url(./back2.jpeg);
 	color: black;
 }
 #projects .project-info h1 {
